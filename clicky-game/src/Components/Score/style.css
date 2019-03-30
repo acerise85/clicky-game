@@ -1,0 +1,7 @@
+.score{
+    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 0%;
+    margin-bottom: 1%;
+    height: 40px;
+}
