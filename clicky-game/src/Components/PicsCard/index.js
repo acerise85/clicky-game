@@ -7,7 +7,7 @@ return(
 
     
       
-      <img alt={props.image} src={props.image} onClick={props.verifyOneClick} />
+      <img id={props.id} alt={props.image} src={props.image} onClick={props.handleClick} />
       
 
 
